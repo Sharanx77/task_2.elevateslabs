@@ -23,10 +23,10 @@ This project was developed as part of a web development internship task. The foc
 * **Hosting:** GitHub Pages.
 
 ## 📂 File Structure
-├── index.html       # Main HTML file
-├── style.css        # External stylesheet (Box model styling)
-├── imageofme.jpg    # Profile image
-└── README.md        # Project documentation
+├── index.html       # Main HTML file                                                                                                                                                                                
+├── style.css        # External stylesheet (Box model styling)                                                                                                                                                       
+├── imageofme.jpg    # Profile image                                                                                                                                                                                 
+└── README.md        # Project documentation                                                                                                                                                                         
 
 ## 📬 Contact
 
